@@ -12,6 +12,7 @@
   "dependencies": {
     "vite": "^4.0.0",
     "ol": "^6.5.0"
+    
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
